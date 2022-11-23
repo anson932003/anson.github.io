@@ -1,0 +1,44 @@
+[
+   {
+      "id":1,
+      "name":"Apple",
+      "price":5,
+      "image":"apple.jpg",
+      "description":"Fresh Apple on Sales"
+   },
+   {
+      "id":2,
+      "name":"Orange",
+      "price":3,
+      "image":"orange.jpg",
+      "description":"Fresh Orange on sales"
+   },
+   {
+      "id":3,
+      "name":"Mango",
+      "price":4,
+      "image":"mango.jpg",
+      "description":"Fresh Mango on sales"
+   },
+   {
+      "id":4,
+      "name":"Watermelon",
+      "price":20,
+      "image":"watermelon.jpg",
+      "description":"fresh watermelon on sales"
+   },
+   {
+      "id":5,
+      "name":"Blueberry",
+      "price":10,
+      "image":"blueberry.jpg",
+      "description":"Fresh blueberry on sales"
+   },
+   {
+      "id":6,
+      "name":"White-carrot",
+      "price":5,
+      "image":"white-carrot.jpg",
+      "description":"Fresh white carrot on sales"
+   }
+]
